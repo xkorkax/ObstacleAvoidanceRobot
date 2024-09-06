@@ -3,6 +3,7 @@
 ### Project Description
 The obstacle avoidance robot was built as a DIY project, implementing obstacle avoidance algorithms using HC-SR04 ultrasonic sensor. The robot moves autonomously, analyzing its surroundings and making decisions to change direction when obstacles are detected. The project uses an ATmega328PU microcontroller and a custom-designed, hand-etched PCB. The robot moves thanks to two DC motors driving the rear wheels and measures distances to make decisions about direction changes. 
 
+
 ### Components:
 #### ATmega328PU Microcontroller: 
 Manages all the robot's logic, processing data from sensors and controlling movement.
