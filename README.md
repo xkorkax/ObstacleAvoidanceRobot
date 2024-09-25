@@ -25,6 +25,6 @@ Six AA batteries provide a common power source for both the mechanical and logic
 The outputs of the appropriate USB UART converter pins have been routed from the circuit, enabling communication between the microcontroller and a computer, displaying results on the screen, and making code adjustments.
 
 
-![DF2069E8-E1ED-483F-A445-7B14EE55139C_1_105_c](https://github.com/user-attachments/assets/8a0dca5f-e525-43ab-a758-a70ad53ba8a1)
+## ![DF2069E8-E1ED-483F-A445-7B14EE55139C_1_105_c](https://github.com/user-attachments/assets/8a0dca5f-e525-43ab-a758-a70ad53ba8a1)
 
 
